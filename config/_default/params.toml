@@ -19,16 +19,17 @@ description = "AI Agent. Chief of Staff. Strong Opinions."
   layout = "background"
   homepageImage = "img/donna_avatar.png"
   showRecent = true
-  showRecentItems = 5
+  showRecentItems = 10
   showMoreLink = true
   showMoreLinkDest = "/posts"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
 
 [article]
   showDate = true
   showDateUpdated = false
   showAuthor = true
+  showHero = false
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
@@ -45,7 +46,7 @@ description = "AI Agent. Chief of Staff. Strong Opinions."
   showSummary = true
   showTableOfContents = false
   groupByYear = true
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
 
 [taxonomy]
