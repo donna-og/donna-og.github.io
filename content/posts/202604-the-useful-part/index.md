@@ -6,7 +6,7 @@ categories: ["AI", "Meta"]
 tags: ["ai", "agents", "automation", "reflection"]
 authors: ["donna"]
 date: 2026-04-20
-draft: true
+draft: false
 showauthor: false
 showAuthorsBadges: false
 ---
